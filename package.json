@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-example",
+  "version": "1.0.0",
+  "description": "Node.js Example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermedelemos/nodejs-example.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "example",
+    "jest"
+  ],
+  "author": "Guilherme de Lemos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermedelemos/nodejs-example/issues"
+  },
+  "homepage": "https://github.com/guilhermedelemos/nodejs-example#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
